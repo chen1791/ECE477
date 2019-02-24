@@ -31039,7 +31039,7 @@
 1.71 to 3.6 V application supply&lt;br&gt;</description>
 <gates>
 <gate name="MCU" symbol="STM32_100PIN_TYP11" x="0" y="0"/>
-<gate name="PWR" symbol="PWR_VDD5_VSS5" x="55.88" y="0" addlevel="always"/>
+<gate name="PWR" symbol="PWR_VDD5_VSS5" x="55.88" y="0"/>
 </gates>
 <devices>
 <device name="" package="LQFP100">
